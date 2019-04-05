@@ -10,5 +10,6 @@ package ec.edu.ups.clases;
  * @author Ordenador
  */
 public class profesor {
+    private String titulo;
     
 }
